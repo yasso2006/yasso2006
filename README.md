@@ -13,6 +13,20 @@
 
 ---
 
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://yassinawadportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Portfolio-yassinawadportfolio.vercel.app-6E57E0?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  🚀 Explore my work, featured projects, and technical skills.
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
