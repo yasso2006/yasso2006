@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋! My name is Yassin Awad</h1>
 
-<h3 align="center">Software Developer | C / C++ | Python | Qt | OpenCV</h3>
+<h3 align="center">Software Engineer</h3>
 
 ---
 
