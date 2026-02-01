@@ -65,16 +65,7 @@
 
 ---
 
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yasso2006/yasso2006/main/github-metrics.svg"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yasso2006&theme=dracula"/>
-</p>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasso2006)](https://github.com/yasso2006/github-readme-stats)
 ---
 
 <picture>
