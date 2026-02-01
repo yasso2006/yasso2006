@@ -65,15 +65,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasso2006&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasso2006&layout=compact&theme=dracula" height="150"/>
+  <img src="https://raw.githubusercontent.com/yasso2006/yasso2006/main/github-metrics.svg"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yasso2006&theme=dracula" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=yasso2006&theme=dracula"/>
 </p>
 
 ---
